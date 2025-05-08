@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, FlatList } from 'react-native'
+import { StyleSheet } from 'react-native'
 import{Card, Avatar} from 'react-native-paper'
 import React from 'react'
 
